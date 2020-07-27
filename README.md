@@ -22,8 +22,8 @@ Some dependencies used:
 
 [React Modal](https://www.npmjs.com/package/react-modal)
 
-![alt text](./1.jpg)
+![alt text](./img-examples/1.jpg)
 
-![alt text](./2.jpg)
+![alt text](./img-examples/2.jpg)
 
-![alt text](./3.jpg)
+![alt text](./img-examples/3.jpg)
