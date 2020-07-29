@@ -2,6 +2,9 @@
 
 This is a Calendar Event App, the front end part is built using React JS and Redux and friends.
 
+you can test here:
+[Calendar App](https://calendarapp-backend.herokuapp.com/)
+
 Here you can create, read, update and delete (CRUD), events.
 
 Some dependencies used:
