@@ -1,6 +1,7 @@
 ## Calendar App - Front end React Redux
 
 This is a Calendar Event App, the front end part is build using React JS and Redux and friends.
+<<<<<<< HEAD
 
 you can test here:
 [Calendar App](https://calendarapp-backend.herokuapp.com/)
