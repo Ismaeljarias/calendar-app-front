@@ -30,8 +30,6 @@ export const startRegister = (name, email, password) => async (dispatch) => {
   );
   const body = await resp.json();
 
-  console.log(body);
-
   if (body.ok) {
     localStorage.setItem("token", body.token);
     localStorage.setItem("token-init-date", new Date().getTime());
